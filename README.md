@@ -1,5 +1,5 @@
 # Hi, I’m Jakub 👋
-aka @zych3, a 20yo C++ & GameDev enthusiast and Junior Technology Programmer at Techland. Oh, I'm also chasing my Bachelor's Degree in Computer Science on Warsaw's PJAIT ⛩️.
+aka @zych3, a 20yo C++ & GameDev enthusiast and Software Engineer in Publishing QA, CD Projekt RED. Oh, I'm also chasing my Bachelor's Degree in Computer Science on Warsaw's PJAIT ⛩️.
 
 ## A little boring piece about me 🤓☝️
 I'm super interested in Game Engines, Rendering, Mathematics and Operating Systems.
